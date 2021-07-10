@@ -1,2 +1,6 @@
-# primeiro-projeto
-Criando nosso primeiro repositorio
+# First Project 
+Creating ouw first repository
+
+...
+Created by AcidKing
+...
